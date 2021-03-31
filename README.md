@@ -56,3 +56,16 @@ Data and Systems Manager:
 - Over the phone b2b sales.
 - Selling advertising space within the Spanish and Latin American market (Print, Digital and Radio).
 - Pitching new advertising packages to businesses.
+
+##
+## Education
+### SOAS University of London
+> Msc, International Politics
+
+### Københavns Universitet - University of Copenhagen
+> Erasmus, International Relations and Affairs
+
+### University of Surrey
+> BA, International Relations and Affairs
+
+##
