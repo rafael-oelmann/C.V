@@ -4,7 +4,8 @@ Junior Software Engineer with a track record of delivering UK wide programmes ai
 
 ## Experience
 
-### Community Organiser (UK/EMEA) - Airbnb #### (May 2019 - May 202 1yr 1 mo)
+### Community Organiser (UK/EMEA) - Airbnb 
+##### (May 2019 - May 202 1yr 1 mo)
 > Ensuring Airbnb made a positive impact to communities across the UK and EMEA.
 
 - Establishing the first UK Airbnb Community Board.
