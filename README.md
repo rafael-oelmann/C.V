@@ -36,7 +36,7 @@ providing political consultancy and managing campaigns aimed at addressing socia
 - Engaging a wide range of stakeholders in and outside Parliament to effect meaningful change.
 
 ### Hotel Manager - Casa Colvale
-Responsible for the day-to-day management of a luxury boutique hotel in Goa
+> Responsible for the day-to-day management of a luxury boutique hotel in Goa
 (India)- 12 room hotel with a staff of 16 + contractors.
 
 - Managing corporate and social events.
