@@ -5,7 +5,7 @@ Junior Software Engineer with a track record of delivering UK wide programmes ai
 ## Experience
 
 ### Community Organiser (UK/EMEA) - Airbnb 
-##### (May 2019 - May 202 1yr 1 mo)
+##### (May 2019 - May 2020 1yr 1 mo)
 > Ensuring Airbnb made a positive impact to communities across the UK and EMEA.
 
 - Establishing the first UK Airbnb Community Board.
@@ -16,7 +16,7 @@ Junior Software Engineer with a track record of delivering UK wide programmes ai
 
 
 ### Programme Officer / Data & Systems Manager - Inspire! Education Business Partnership 
-
+##### (Feb 2018 - May 2019 1yr 4 mo)
 > Managing and delivering corporate social responsibility programmes aimed at improving the lives and aspirations of young people across London.
 
 - Managing clients/volunteers across various industries. Key clients include: HSBC, KPMG, UBS.
@@ -32,6 +32,7 @@ Data and Systems Manager:
 
 
 ### Caseworker & Community Organiser - Member of Parliament
+##### (Apr 2014 - Jul 2017 3yrs 4 mo)
 > providing political consultancy and managing campaigns aimed at addressing social issues 
 
 - Organising political campaigns around housing, community cohesion and SRE. 
@@ -40,6 +41,7 @@ Data and Systems Manager:
 
 
 ### Hotel Manager - Casa Colvale
+##### (Sep 13 - Jan 2014 5 mo)
 > Responsible for the day-to-day management of a luxury boutique hotel in Goa
 (India)- 12 room hotel with a staff of 16 + contractors.
 
@@ -48,6 +50,7 @@ Data and Systems Manager:
 - Creating new experiences/products for guests to engage with.
 
 ### Sales And Marketing Intern - Prime Media International
+##### (Dec 2011 - May 2012 6 mo)
 > Selling advertising space to Spanish and Latin American clients 
 
 - Over the phone b2b sales.
