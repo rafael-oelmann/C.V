@@ -4,8 +4,8 @@ Junior Software Engineer with a track record of delivering UK wide programmes ai
 
 ## Experience
 
-### Community Organiser (UK/EMEA) - Airbnb 
-Ensuring Airbnb made a positive impact to communities across the UK and EMEA.
+### Community Organiser (UK/EMEA) - Airbnb #### (May 2019 - May 202 1yr 1 mo)
+> Ensuring Airbnb made a positive impact to communities across the UK and EMEA.
 
 - Establishing the first UK Airbnb Community Board.
 - Launching Airbnb’s first Eco-Hosting Initiatives.
@@ -13,9 +13,10 @@ Ensuring Airbnb made a positive impact to communities across the UK and EMEA.
 - Working alongside various Airbnb’s partners including: The Olympics & UK Gov.
 - Exporting successful programmes across EMEA.
 
+
 ### Programme Officer / Data & Systems Manager - Inspire! Education Business Partnership 
 
-Managing and delivering corporate social responsibility programmes aimed at improving the lives and aspirations of young people across London.
+> Managing and delivering corporate social responsibility programmes aimed at improving the lives and aspirations of young people across London.
 
 - Managing clients/volunteers across various industries. Key clients include: HSBC, KPMG, UBS.
 - Delivering presentations and workshops on work-related learning.
@@ -28,12 +29,14 @@ Data and Systems Manager:
 - Designing and implementing Salesforce CRM.
 - Managing contracts with external systems companies.
 
+
 ### Caseworker & Community Organiser - Member of Parliament
-providing political consultancy and managing campaigns aimed at addressing social issues 
+> providing political consultancy and managing campaigns aimed at addressing social issues 
 
 - Organising political campaigns around housing, community cohesion and SRE. 
 - Working closely with a Member of Parliament to deliver solutions to local issues around employment, debt, immigration, health and housing. 
 - Engaging a wide range of stakeholders in and outside Parliament to effect meaningful change.
+
 
 ### Hotel Manager - Casa Colvale
 > Responsible for the day-to-day management of a luxury boutique hotel in Goa
@@ -44,7 +47,7 @@ providing political consultancy and managing campaigns aimed at addressing socia
 - Creating new experiences/products for guests to engage with.
 
 ### Sales And Marketing Intern - Prime Media International
-selling advertising space to Spanish and Latin American clients 
+> Selling advertising space to Spanish and Latin American clients 
 
 - Over the phone b2b sales.
 - Selling advertising space within the Spanish and Latin American market (Print, Digital and Radio).
